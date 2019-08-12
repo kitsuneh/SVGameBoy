@@ -4,7 +4,6 @@ A systemVerilog implementation of the Game Boy on DE1-SoC
 This was for CSEE 4840 Embedded System Design @ Columbia University
 
 To make target files for DE1-SoC
-
 make qsys && make quartus && make rbf
 
 ## Accuracy
